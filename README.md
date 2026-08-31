@@ -29,14 +29,6 @@ I'm strengthening my skills in **SQL, Python, Excel, Power BI, and Tableau** wit
 - Business Analysis
 - Product Analytics
 
-### Currently Learning
-- Advanced SQL
-- Python for Data Analysis
-- Power BI & DAX
-- Tableau
-- Product Analytics
-- Product Management
-
 ### Education
 
 **Texas A&M International University**  
@@ -47,6 +39,8 @@ May 2026
 ---
 
  **Let's connect**
+
+Email: moraarizbeth31@gmail.com
 
 <!--
 **swaninterlude/swaninterlude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
