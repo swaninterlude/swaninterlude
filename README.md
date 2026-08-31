@@ -42,6 +42,7 @@ May 2026
 
 Email: moraarizbeth31@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/arizbethmora/ 
 <!--
 **swaninterlude/swaninterlude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
