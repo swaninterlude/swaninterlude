@@ -4,11 +4,12 @@ I'm a recent **Bachelor of Business Administration** graduate from **Texas A&M I
 
 I'm strengthening my skills in **SQL, Python, Excel, Power BI, and Tableau** with a focus on turning data into meaningful business and product insights.
 
-### My ongoing work
-- Building end-to-end data analytics projects
-- Strengthening my SQL and data analysis skills
-- Developing interactive dashboards with Power BI and Tableau
-- Strengthening my Python skills for data analysis and automation
+### Currently Working On
+- Building end-to-end data analytics projects (SQL → Python → Power BI/Tableau dashboards)
+- Deepening SQL skills — advanced queries, joins, window functions
+- Python for data analysis and automation
+- Power BI & DAX, and Tableau for interactive dashboards
+- Exploring product analytics and product management fundamentals
 
 ### Technical Skills
 **Data & Programming**
@@ -27,9 +28,6 @@ I'm strengthening my skills in **SQL, Python, Excel, Power BI, and Tableau** wit
 - KPI Analysis
 - Business Analysis
 - Product Analytics
-
-### Featured Projects 
-**ONGOING**
 
 ### Currently Learning
 - Advanced SQL
